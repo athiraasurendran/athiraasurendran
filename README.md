@@ -4,7 +4,7 @@
 ---
 
 ###  What I’m About
-##### I’m passionate about uncovering hidden patterns in data and turning them into meaningful stories. Every dataset is a puzzle, and I enjoy experimenting, learning, and finding creative ways to solve real-world problems. My journey is just beginning, and I’m eager to keep learning, growing, and sharing along the way.
+I’m passionate about uncovering hidden patterns in data and turning them into meaningful stories. Every dataset is a puzzle, and I enjoy experimenting, learning, and finding creative ways to solve real-world problems. My journey is just beginning, and I’m eager to keep learning, growing, and sharing along the way.
 ---
 
 ###  Tech & Tools I’m Playing With
