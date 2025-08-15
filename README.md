@@ -4,7 +4,10 @@
 ---
 
 ###  What I’m About
+<p style="font-size:14px; line-height:1.4;">
 I’m passionate about uncovering hidden patterns in data and turning them into meaningful stories. Every dataset is a puzzle, and I enjoy experimenting, learning, and finding creative ways to solve real-world problems. My journey is just beginning, and I’m eager to keep learning, growing, and sharing along the way.
+</p>
+
 ---
 
 ###  Tech & Tools I’m Playing With
