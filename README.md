@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Athira A S</h1>
+<h1 align="center">Hi 👋, I'm Athira A S</h1>
 <p align="center"> Certified Specialist in Data Science and Analytics — excited to start my journey as a Data Scientist!</p>
 
 ---
